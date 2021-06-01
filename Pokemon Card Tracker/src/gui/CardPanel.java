@@ -1,11 +1,15 @@
 package gui;
 
 import java.awt.FlowLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 import javax.swing.ButtonGroup;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JRadioButton;
+
+import main.Main;
 
 @SuppressWarnings("serial")
 public class CardPanel extends JPanel{
@@ -24,12 +28,30 @@ public class CardPanel extends JPanel{
 		
 		notObtained = new JRadioButton("Do Not Have");
 		
+		haveCheck hc = new haveCheck();
+		obtained.addActionListener(hc);
+		notObtained.addActionListener(hc);
+		
 		ButtonGroup haveOrNot = new ButtonGroup();
 		haveOrNot.add(obtained);
 		haveOrNot.add(notObtained);
 		
 		add(obtained);
 		add(notObtained);
+	}
+	
+	public class haveCheck implements ActionListener{
+		@Override
+		public void actionPerformed(ActionEvent e) {
+			if(obtained.isSelected()) {
+				System.out.println("Have: " + cardName.getText());
+				updateCard(cardName.getText(), true);
+			}
+			if(notObtained.isSelected()) {
+				System.out.println("Don't Have: " + cardName.getText());
+				updateCard(cardName.getText(), false);
+			}
+		}
 	}
 	
 	public JLabel getCardName() {
@@ -46,5 +68,14 @@ public class CardPanel extends JPanel{
 	
 	public JRadioButton getNotObtained() {
 		return this.notObtained;
+	}
+	
+	public static void updateCard(String cardname, boolean obtained) {
+		for(int i = 0; i < Main.getDarknessAblazeCardList().size(); i++) {
+			if(Main.getDarknessAblazeCardList().get(i).get("name").equals(cardname)) {
+				Main.getDarknessAblazeCardList().get(i).remove("obtained");
+				Main.getDarknessAblazeCardList().get(i).put("obtained", obtained);
+			}
+		}
 	}
 }
