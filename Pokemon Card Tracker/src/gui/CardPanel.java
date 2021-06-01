@@ -17,6 +17,7 @@ public class CardPanel extends JPanel{
 	private JLabel cardName;
 	private JRadioButton obtained;
 	private JRadioButton notObtained;
+	private ButtonGroup haveOrNot = new ButtonGroup();
 	
 	public CardPanel(String cardName) {
 		setLayout(new FlowLayout());
@@ -32,7 +33,6 @@ public class CardPanel extends JPanel{
 		obtained.addActionListener(hc);
 		notObtained.addActionListener(hc);
 		
-		ButtonGroup haveOrNot = new ButtonGroup();
 		haveOrNot.add(obtained);
 		haveOrNot.add(notObtained);
 		
@@ -68,6 +68,10 @@ public class CardPanel extends JPanel{
 	
 	public JRadioButton getNotObtained() {
 		return this.notObtained;
+	}
+	
+	public ButtonGroup getHaveOrNot() {
+		return this.haveOrNot;
 	}
 	
 	public static void updateCard(String cardname, boolean obtained) {

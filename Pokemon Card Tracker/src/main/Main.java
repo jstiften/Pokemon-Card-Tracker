@@ -40,12 +40,9 @@ public class Main {
 		mainFrame.setTitle("Pokemon Card Tracker");
 		
 		CardPanel cp2 = new CardPanel("Charizard V");
-		cp2.setVisible(true);
-		cp2.setSize(300, 300);
+		cp2.getObtained().setSelected(true);
 		
 		CardPanel cp = new CardPanel("Charizard VMAX");
-		cp.setVisible(true);
-		cp.setSize(300, 300);
 		
 		mainFrame.add(cp);
 		mainFrame.add(cp2);
