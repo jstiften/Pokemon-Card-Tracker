@@ -19,7 +19,7 @@ public class CardPanel extends JPanel{
 	private JRadioButton notObtained;
 	private ButtonGroup haveOrNot = new ButtonGroup();
 	
-	public CardPanel(String cardName) {
+	public CardPanel(String cardName, boolean have) {
 		setLayout(new FlowLayout());
 		
 		this.cardName = new JLabel(cardName);
@@ -28,6 +28,12 @@ public class CardPanel extends JPanel{
 		obtained = new JRadioButton("Have");
 		
 		notObtained = new JRadioButton("Do Not Have");
+		
+		if(have == true) {
+			obtained.setSelected(true);
+		}else {
+			notObtained.setSelected(true);
+		}
 		
 		haveCheck hc = new haveCheck();
 		obtained.addActionListener(hc);

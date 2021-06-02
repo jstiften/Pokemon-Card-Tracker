@@ -39,13 +39,9 @@ public class Main {
 		mainFrame.setVisible(true);
 		mainFrame.setTitle("Pokemon Card Tracker");
 		
-		CardPanel cp2 = new CardPanel("Charizard V");
-		cp2.getObtained().setSelected(true);
-		
-		CardPanel cp = new CardPanel("Charizard VMAX");
-		
-		mainFrame.add(cp);
-		mainFrame.add(cp2);
+		for(int i = 0; i < darknessAblazeCards.size(); i++) {
+			mainFrame.add(new CardPanel(darknessAblazeCards.get(i).getString("name"), darknessAblazeCards.get(i).getBoolean("obtained")));
+		}
 	
 		mainFrame.addWindowListener(new WindowAdapter() {
 			@Override

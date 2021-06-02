@@ -1,0 +1,200 @@
+{"name":"Butterfree V","obtained":true}
+{"name":"Butterfree VMAX","obtained":true}
+{"name":"Paras","obtained":false}
+{"name":"Parasect","obtained":false}
+{"name":"Carnivine","obtained":false}
+{"name":"Pansage","obtained":false}
+{"name":"Simisage","obtained":false}
+{"name":"Karrablast","obtained":false}
+{"name":"Shelmet","obtained":false}
+{"name":"Accelgor","obtained":false}
+{"name":"Rowlet","obtained":false}
+{"name":"Dartrix","obtained":false}
+{"name":"Decidueye","obtained":false}
+{"name":"Bounsweet","obtained":false}
+{"name":"Steenee","obtained":false}
+{"name":"Tsareena","obtained":false}
+{"name":"Wimpod","obtained":false}
+{"name":"Golisopod","obtained":false}
+{"name":"Charizard V","obtained":false}
+{"name":"Charizard VMAX","obtained":true}
+{"name":"Houndoom V","obtained":false}
+{"name":"Torchic","obtained":false}
+{"name":"Combusken","obtained":false}
+{"name":"Blaziken","obtained":false}
+{"name":"Heatran","obtained":true}
+{"name":"Pansear","obtained":false}
+{"name":"Simisear","obtained":false}
+{"name":"Galarian Darmanitan","obtained":false}
+{"name":"Larvesta","obtained":false}
+{"name":"Volcarona","obtained":true}
+{"name":"Fletchinder","obtained":false}
+{"name":"Talonflame","obtained":false}
+{"name":"Centiskorch V","obtained":false}
+{"name":"Centiskorch VMAX","obtained":false}
+{"name":"Galarian Mr. Mime","obtained":false}
+{"name":"Galarian Mr. Rime","obtained":false}
+{"name":"Suicune","obtained":false}
+{"name":"Feebas","obtained":false}
+{"name":"Milotic","obtained":false}
+{"name":"Relicanth","obtained":false}
+{"name":"Panpour","obtained":false}
+{"name":"Simipour","obtained":false}
+{"name":"Galarian Darumaka","obtained":false}
+{"name":"Galarian Darmanitan","obtained":false}
+{"name":"Vanillite","obtained":false}
+{"name":"Vanillish","obtained":false}
+{"name":"Vanilluxe","obtained":false}
+{"name":"Cubchoo","obtained":false}
+{"name":"Beartic","obtained":true}
+{"name":"Wishiwashi","obtained":false}
+{"name":"Mareanie","obtained":false}
+{"name":"Toxapex","obtained":false}
+{"name":"Dracovish","obtained":false}
+{"name":"Arctovish","obtained":false}
+{"name":"Mareep","obtained":false}
+{"name":"Flaffy","obtained":false}
+{"name":"Ampharos","obtained":false}
+{"name":"Electrike","obtained":false}
+{"name":"Manectric","obtained":false}
+{"name":"Vikavolt V","obtained":false}
+{"name":"Tapu Koko","obtained":false}
+{"name":"Toxel","obtained":false}
+{"name":"Toxtricity","obtained":false}
+{"name":"Pincurrchin","obtained":true}
+{"name":"Dracozolt","obtained":false}
+{"name":"Arctozolt","obtained":false}
+{"name":"Jigglypuff","obtained":false}
+{"name":"Wigglytuff","obtained":false}
+{"name":"Mew V","obtained":false}
+{"name":"Snubbull","obtained":false}
+{"name":"Granbull","obtained":false}
+{"name":"Lunatone","obtained":false}
+{"name":"Gothita","obtained":false}
+{"name":"Gothorita","obtained":false}
+{"name":"Golett","obtained":false}
+{"name":"Golurk","obtained":false}
+{"name":"Dedenne","obtained":false}
+{"name":"Morelull","obtained":false}
+{"name":"Shiinotic","obtained":false}
+{"name":"Mimikyu","obtained":false}
+{"name":"Sinistea","obtained":false}
+{"name":"Polteageist","obtained":false}
+{"name":"Diglett","obtained":false}
+{"name":"Dugtrio","obtained":false}
+{"name":"Larvitar","obtained":false}
+{"name":"Pupitar","obtained":false}
+{"name":"Tyranitar","obtained":false}
+{"name":"Trapinch","obtained":false}
+{"name":"Vibrava","obtained":false}
+{"name":"Flygon","obtained":false}
+{"name":"Solrock","obtained":false}
+{"name":"Hippopotas","obtained":false}
+{"name":"Hippowdon","obtained":false}
+{"name":"Rhyperior V","obtained":false}
+{"name":"Diggersby","obtained":false}
+{"name":"Passimian","obtained":false}
+{"name":"Galarian Sirfetch'd","obtained":false}
+{"name":"Galarian Slowbro V","obtained":false}
+{"name":"Grimer","obtained":false}
+{"name":"Muk","obtained":false}
+{"name":"Spinarak","obtained":false}
+{"name":"Ariados","obtained":false}
+{"name":"Crobat V","obtained":false}
+{"name":"Darkrai","obtained":false}
+{"name":"Purrloin","obtained":false}
+{"name":"Liepard","obtained":false}
+{"name":"Deino","obtained":false}
+{"name":"Zweilous","obtained":false}
+{"name":"Hydreigon","obtained":false}
+{"name":"Hoopa","obtained":false}
+{"name":"Nickit","obtained":false}
+{"name":"Thievul","obtained":false}
+{"name":"Grimsnarl V","obtained":false}
+{"name":"Grimsnarl VMAX","obtained":false}
+{"name":"Eternatus V","obtained":false}
+{"name":"Eternatus VMAX","obtained":false}
+{"name":"Scizor V","obtained":false}
+{"name":"Scizor VMAX","obtained":false}
+{"name":"Skarmory","obtained":false}
+{"name":"Aaron","obtained":false}
+{"name":"Lairon","obtained":false}
+{"name":"Aggron","obtained":false}
+{"name":"Escavalier","obtained":false}
+{"name":"Klink","obtained":false}
+{"name":"Klang","obtained":false}
+{"name":"Klinklang","obtained":false}
+{"name":"Galarian Stunfisk V","obtained":false}
+{"name":"Meltan","obtained":false}
+{"name":"Melmetal","obtained":false}
+{"name":"Cufant","obtained":false}
+{"name":"Copperajah","obtained":false}
+{"name":"Kangaskhan","obtained":false}
+{"name":"Tauros","obtained":false}
+{"name":"Sentret","obtained":false}
+{"name":"Furret","obtained":false}
+{"name":"Dunsparce","obtained":false}
+{"name":"Teddiursa","obtained":false}
+{"name":"Ursaring","obtained":false}
+{"name":"Lugia","obtained":false}
+{"name":"Skitty","obtained":false}
+{"name":"Delcatty","obtained":false}
+{"name":"Salamence V","obtained":false}
+{"name":"Salamence VMAX","obtained":false}
+{"name":"Starly","obtained":false}
+{"name":"Staravia","obtained":false}
+{"name":"Staraptor","obtained":false}
+{"name":"Ducklett","obtained":false}
+{"name":"Swanna","obtained":false}
+{"name":"Bunnelby","obtained":false}
+{"name":"Fletchling","obtained":false}
+{"name":"Skwovet","obtained":false}
+{"name":"Greedent","obtained":false}
+{"name":"Rokidee","obtained":false}
+{"name":"Corvisquire","obtained":false}
+{"name":"Corviknight","obtained":false}
+{"name":"Big Paasol","obtained":false}
+{"name":"Billowing Smoke","obtained":false}
+{"name":"Bird Keeper","obtained":false}
+{"name":"Cape of Toughness","obtained":false}
+{"name":"Familiar Bell","obtained":false}
+{"name":"Glimwood Tangle","obtained":false}
+{"name":"Kabu","obtained":false}
+{"name":"Old PC","obtained":false}
+{"name":"Piers","obtained":false}
+{"name":"Pokemon Breeder's Nurturing","obtained":false}
+{"name":"Rare Fossil","obtained":false}
+{"name":"Rose","obtained":false}
+{"name":"Rose Tower","obtained":false}
+{"name":"Spikemuth","obtained":false}
+{"name":"Struggle Gloves","obtained":false}
+{"name":"Turbo Patch","obtained":false}
+{"name":"Yell Horn","obtained":false}
+{"name":"Heat Energy","obtained":false}
+{"name":"Hiding Energy","obtained":false}
+{"name":"Powerful Energy","obtained":false}
+{"name":"Butterfree V","obtained":true}
+{"name":"Houndoom V","obtained":false}
+{"name":"Centiskorch V","obtained":false}
+{"name":"Vikavolt V","obtained":false}
+{"name":"Rhyperior V","obtained":false}
+{"name":"Crobat V","obtained":false}
+{"name":"Scizor V","obtained":false}
+{"name":"Galarian Stunfisk V","obtained":false}
+{"name":"Salamence V","obtained":false}
+{"name":"Kabu","obtained":false}
+{"name":"Piers","obtained":false}
+{"name":"Pokemon Breeder's Nurturing","obtained":false}
+{"name":"Rose","obtained":false}
+{"name":"Butterfree VMAX","obtained":true}
+{"name":"Centiskorch VMAX","obtained":false}
+{"name":"Eternatus VMAX","obtained":false}
+{"name":"Scizor VMAX","obtained":false}
+{"name":"Salamence VMAX","obtained":false}
+{"name":"Pokemon Breeder's Nurturing","obtained":false}
+{"name":"Rose","obtained":false}
+{"name":"Rillaboom","obtained":false}
+{"name":"Coalossal","obtained":false}
+{"name":"Big Parasol","obtained":false}
+{"name":"Turbo Patch","obtained":false}
+{"name":"Capture Energy","obtained":false}
