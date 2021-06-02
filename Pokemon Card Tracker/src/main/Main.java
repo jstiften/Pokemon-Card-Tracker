@@ -5,6 +5,7 @@ import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 
 import javax.swing.JFrame;
+import javax.swing.JScrollPane;
 
 import org.json.JSONObject;
 
@@ -42,7 +43,7 @@ public class Main {
 		for(int i = 0; i < darknessAblazeCards.size(); i++) {
 			mainFrame.add(new CardPanel(darknessAblazeCards.get(i).getString("name"), darknessAblazeCards.get(i).getBoolean("obtained")));
 		}
-	
+		
 		mainFrame.addWindowListener(new WindowAdapter() {
 			@Override
 			public void windowClosing(WindowEvent e) {
